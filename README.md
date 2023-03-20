@@ -1,7 +1,7 @@
 ## Container Service (Go)
 [![Go Reference](https://pkg.go.dev/badge/github.com/farzai/container-go.svg)](https://pkg.go.dev/github.com/farzai/container-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/farzai/container-go)](https://goreportcard.com/report/github.com/farzai/container-go)
-![Github Actions](https://github.com/farzai/container-go/actions/workflows/main.yml/badge.svg?branch=main)
+![Github Actions](https://github.com/farzai/container-go/actions/workflows/ci.yml/badge.svg?branch=main)
 
 A simple dependency injection library for Go.
 
